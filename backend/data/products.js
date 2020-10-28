@@ -9,7 +9,7 @@ const products = [
     category: 'Category 1',
     price: 89.99,
     countInStock: 3,
-    rating: 1,
+    rating: 4.5,
     numReviews: 2,
   },
 
