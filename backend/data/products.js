@@ -19,7 +19,7 @@ const products = [
     image: '/images/prod2.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 2',
     price: 89.99,
     countInStock: 3,
@@ -33,7 +33,7 @@ const products = [
     image: '/images/prod3.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 3',
     price: 89.99,
     countInStock: 3,
@@ -47,11 +47,11 @@ const products = [
     image: '/images/prod4.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 4',
     price: 89.99,
     countInStock: 3,
-    rating: 0,
+    rating: 1,
     numReviews: 0,
   },
 
@@ -61,7 +61,7 @@ const products = [
     image: '/images/prod5.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 1',
     price: 89.99,
     countInStock: 3,
@@ -75,7 +75,7 @@ const products = [
     image: '/images/prod6.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 2',
     price: 89.99,
     countInStock: 3,
@@ -89,7 +89,7 @@ const products = [
     image: '/images/prod7.jpg',
     description:
       'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    //brand: 'Apple',
+    brand: 'Apple',
     category: 'Category 3',
     price: 89.99,
     countInStock: 3,
